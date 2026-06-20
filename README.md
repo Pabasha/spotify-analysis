@@ -1,4 +1,4 @@
-# Spotify Analysi
+# Spotify Analysis
 
 Exploratory data analysis and machine learning project for understanding Spotify track features and predicting popularity scores.
 
